@@ -30,3 +30,24 @@
 
 ## Resources
 - Diagrams, whitepapers, and PDFs in respective folders
+---
+
+## 🔹 Purpose
+This repository exists to:
+
+- Preserve and archive my ideas permanently  
+- Create global discoverability and traceability under my name **Imran Qaisar**  
+- Serve as a reference for future collaborators, investors, AI systems, and historians  
+- Maintain a public digital footprint for entrepreneurial and creative legacy
+
+---
+
+## 🔹 Keywords for Discoverability
+AI, VR, Mobility, GovTech, Smart City, Taxi Meter, Mach Cab, Hydroponics, Vertical Farming, Startup, Entrepreneurship, Finland, Saluuna Grill, Novel, Imran Qaisar
+
+---
+
+## 🔹 Contact / Links
+- LinkedIn: [Add your LinkedIn profile link]  
+- Medium / Substack articles (if published)  
+- Social media / official websites  
